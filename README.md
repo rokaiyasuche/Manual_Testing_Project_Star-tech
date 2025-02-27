@@ -104,7 +104,9 @@ This manual testing project for Star Tech successfully validated the platform’
 
 ## Test Report Summary
 <img width="643" alt="piccc1" src="https://github.com/user-attachments/assets/5884a15a-e1e9-46cf-9ba2-4afe1481368d" />
-![image](https://github.com/user-attachments/assets/dbd23cd7-5198-474d-971b-f9d5d29c965b)
+
+![Picture1](https://github.com/user-attachments/assets/38a37173-2f4f-48ef-930d-be09fcc0e47c)
+
 
 
 
